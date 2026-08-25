@@ -17,7 +17,7 @@ The agent provides reliable customer service through:
 
 ## 2. 🎥 Demo Video
 
-[▶️ Watch the 2–4 Minute Demo Video]https://drive.google.com/file/d/12u9K8hNQVJ24NyXHBHiQzFsya7FzmIF7/view?usp=sharing
+https://drive.google.com/file/d/12u9K8hNQVJ24NyXHBHiQzFsya7FzmIF7/view?usp=sharing
 
 
 The demonstration covers:
