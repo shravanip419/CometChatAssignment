@@ -17,7 +17,7 @@ The system reliably handles customer inquiries through:
 
 ## Demo Video
 
-Demo: [▶️ Watch the 2–4 Minute Demo Video](https://drive.google.com/file/d/12u9K8hNQVJ24NyXHBHiQzFsya7FzmIF7/view?usp=sharing)
+https://drive.google.com/file/d/12u9K8hNQVJ24NyXHBHiQzFsya7FzmIF7/view?usp=sharing
 
 The demonstration covers:
 1. Knowledge-base question answering with source citations
@@ -95,7 +95,7 @@ CometChatAssignment/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shravanip419/CometChatAssignment.git
    cd CometChatAssignment
    ```
 
