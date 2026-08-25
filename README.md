@@ -39,7 +39,7 @@ The demonstration covers:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shravanip419/CometChatAssignment.git
    cd CometChatAssignment
    ```
 
